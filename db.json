@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "Power MOSFET (N-type)",
+        "PN": "DSEP29-06A",
+        "MF": "IXYS"
+      },
+      "MID": "MID20282",
+      "MD": "DSEP29-06A is High Performance Fast Recovery Single Diode, Low Loss and Soft Recovery with VRRM = 600V, IFAV = 30A, trr = 35ns || TO-220 || Antiparallel diode for high frequency switching devices, Antisaturation diode, Snubber diode, Free wheeling diode, Rectifiers in switch mode power supplies (SMPS), Uninterruptible power supplies (UPS)|| Alternate :  || Ref : D9 - D11 || Location: TBA",
+      "MT": "Electronic Material",
+      "MQNT": 15,
+      "MCost": 384.54,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20282%2Fmain%2Fmedia-3319153.pdf",
+      "MAF1": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20282%2Fmain%2F51674123D04_en_-.1_NGRD_Requirement_Description.doc",
+      "MAF2": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20282%2Fmain%2F51674123D01_en_-.1_51674123D01.xls",
+      "MAF3": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20282%2Fmain%2F51674123D02_en_-.1_51674123D01.zip",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20282%2Fmain%2F51674123D02_EN_-.pdf",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20282/main/Screenshot 2025-05-07 103747.png",
+        "https://raw.githubusercontent.com/mylab2025/MID20282/main/WhatsApp Image 2025-05-07 at 10.01.05 AM (1).jpeg"
+      ]
+    }
+  ]
+}
