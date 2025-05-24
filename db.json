@@ -2,7 +2,7 @@
   "inventory": [
     {
       "MaterialTitle": {
-        "Name": "Power MOSFET (N-type)",
+        "Name": "SWITCHING DIODE (High Performance Fast Recovery)",
         "PN": "DSEP29-06A",
         "MF": "IXYS"
       },
